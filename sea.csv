@@ -1,0 +1,48 @@
+Student,10-10:25,10:30-10:55,11-11:25,11:30-11:55,12-12:25,12:30-12:55,1-1:25,1:30-1:55,2-2:25,2:30-2:55,3-3:25,3:30-3:55,4-4:25,4:30-5
+"test1",Xia Yang,-,Hilary Coller,-,-,-,-,Yi Yin,Brunilda Balliu,-,-,-,-,-,4
+"test2",Chongyuan Luo,Brent Fogel,Brunilda Balliu,Alexander Hoffmann,-,-,-,-,-,-,-,-,-,-,4
+"test3",Grace Xiao,-,-,Yi Yin,-,-,-,Xia Yang,Eric Deeds,-,-,-,-,-,4
+"test4",Alexander Hoffmann,-,Shantanu Joshi,-,-,-,Jennifer Wilson,Aaron Meyer,-,-,-,-,-,-,4
+"test5",Aaron Meyer,-,Pavak Shah,-,-,-,-,-,Nandita Garud,Jennifer Wilson,-,-,-,-,4
+"test6",-,Yi Yin,Frank Alber,-,Pavak Shah,-,-,-,Shantanu Joshi,-,-,-,-,-,4
+"test7",-,Aaron Meyer,-,Shantanu Joshi,-,-,Yi Yin,Brunilda Balliu,-,-,-,-,-,-,4
+"test8",Brent Fogel,Frank Alber,Yi Yin,Pavak Shah,-,-,-,-,-,-,-,-,-,-,4
+"Chan, Nicholas Peter (Nick)",Loes Olde Loohuis,-,-,-,-,-,-,Eric Deeds,Jennifer Wilson,Grace Xiao,-,-,-,-,4
+"Guruvayurappan, Karthik",Bogdan Pasaniuc,Eleazar Eskin,-,-,Grace Xiao,-,Sriram Sankararaman,-,-,-,-,-,-,-,4
+"Holness, Shevaughn Taina",Pavak Shah,Loes Olde Loohuis,-,-,Shantanu Joshi,-,Brunilda Balliu,-,-,-,-,-,-,-,4
+"Land, Max",-,Xia Yang,-,Grace Xiao,-,Shantanu Joshi,-,Sriram Sankararaman,-,-,-,-,-,-,4
+"Lindsey, Timothy David-Ruport",Eric Deeds,Daniel Tward,-,Frank Alber,-,-,Shantanu Joshi,-,-,-,-,-,-,-,4
+"Mandla, Ravi",-,Eric Deeds,-,-,-,Sriram Sankararaman,-,Shantanu Joshi,Jason Ernst,-,-,-,-,-,4
+"Perez, Julianna (Jules Perez)",-,Grace Xiao,-,-,Chongyuan Luo,Harold Pimentel,-,-,-,-,Nandita Garud,-,-,-,4
+"Qin, Ashley Elaine",-,-,Grace Xiao,Brunilda Balliu,-,-,Jason Ernst,Jennifer Wilson,-,-,-,-,-,-,4
+"Srinivasan, Anjali",Frank Alber,Pavak Shah,-,Brent Fogel,-,-,-,-,-,-,Yi Yin,-,-,-,4
+"Steinberg, Philippa Lina",Paul Boutros,Alexander Hoffmann,-,-,Frank Alber,Grace Xiao,-,-,-,-,-,-,-,-,4
+"Zhang, Haoxuan (Harry)",-,Matteo Pellegrini,-,-,-,-,-,Harold Pimentel,Grace Xiao,Nandita Garud,-,-,-,-,4
+"Zhu, Yu",Matteo Pellegrini,-,-,-,Sriram Sankararaman,Corey Arnold,Harold Pimentel,-,-,-,-,-,-,-,4
+
+Faculty,10-10:25,10:30-10:55,11-11:25,11:30-11:55,12-12:25,12:30-12:55,1-1:25,1:30-1:55,2-2:25,2:30-2:55,3-3:25,3:30-3:55,4-4:25,4:30-5
+Xia Yang,"test1","Land, Max",-,-,-,-,-,"test3",-,-,-,-,-,-,3
+Aaron Meyer,"test5","test7",-,-,-,-,-,"test4",-,-,-,-,-,-,3
+Shantanu Joshi,-,-,"test4","test7","Holness, Shevaughn T","Land, Max","Lindsey, Timothy Dav","Mandla, Ravi","test6",-,-,-,-,-,7
+Yi Yin,-,"test6","test8","test3",-,-,"test7","test1",-,-,"Srinivasan, Anjali",-,-,-,6
+Brent Fogel,"test8","test2",-,"Srinivasan, Anjali",-,-,-,-,-,-,-,-,-,-,3
+Brunilda Balliu,-,-,"test2","Qin, Ashley Elaine",-,-,"Holness, Shevaughn T","test7","test1",-,-,-,-,-,5
+Paul Boutros,"Steinberg, Philippa ",-,-,-,-,-,-,-,-,-,-,-,-,-,1
+Nandita Garud,-,-,-,-,-,-,-,-,"test5","Zhang, Haoxuan (Harr","Perez, Julianna (Jul",-,-,-,3
+Matteo Pellegrini,"Zhu, Yu","Zhang, Haoxuan (Harr",-,-,-,-,-,-,-,-,-,-,-,-,2
+Jason Ernst,-,-,-,-,-,-,"Qin, Ashley Elaine",-,"Mandla, Ravi",-,-,-,-,-,2
+Bogdan Pasaniuc,"Guruvayurappan, Kart",-,-,-,-,-,-,-,-,-,-,-,-,-,1
+Corey Arnold,-,-,-,-,-,"Zhu, Yu",-,-,-,-,-,-,-,-,1
+Frank Alber,"Srinivasan, Anjali","test8","test6","Lindsey, Timothy Dav","Steinberg, Philippa ",-,-,-,-,-,-,-,-,-,5
+Pavak Shah,"Holness, Shevaughn T","Srinivasan, Anjali","test5","test8","test6",-,-,-,-,-,-,-,-,-,5
+Eleazar Eskin,-,"Guruvayurappan, Kart",-,-,-,-,-,-,-,-,-,-,-,-,1
+Loes Olde Loohuis,"Chan, Nicholas Peter","Holness, Shevaughn T",-,-,-,-,-,-,-,-,-,-,-,-,2
+Jennifer Wilson,-,-,-,-,-,-,"test4","Qin, Ashley Elaine","Chan, Nicholas Peter","test5",-,-,-,-,4
+Hilary Coller,-,-,"test1",-,-,-,-,-,-,-,-,-,-,-,1
+Eric Deeds,"Lindsey, Timothy Dav","Mandla, Ravi",-,-,-,-,-,"Chan, Nicholas Peter","test3",-,-,-,-,-,4
+Grace Xiao,"test3","Perez, Julianna (Jul","Qin, Ashley Elaine","Land, Max","Guruvayurappan, Kart","Steinberg, Philippa ",-,-,"Zhang, Haoxuan (Harr","Chan, Nicholas Peter",-,-,-,-,8
+Alexander Hoffmann,"test4","Steinberg, Philippa ",-,"test2",-,-,-,-,-,-,-,-,-,-,3
+Harold Pimentel,-,-,-,-,-,"Perez, Julianna (Jul","Zhu, Yu","Zhang, Haoxuan (Harr",-,-,-,-,-,-,3
+Chongyuan Luo,"test2",-,-,-,"Perez, Julianna (Jul",-,-,-,-,-,-,-,-,-,2
+Daniel Tward,-,"Lindsey, Timothy Dav",-,-,-,-,-,-,-,-,-,-,-,-,1
+Sriram Sankararaman,-,-,-,-,"Zhu, Yu","Mandla, Ravi","Guruvayurappan, Kart","Land, Max",-,-,-,-,-,-,4

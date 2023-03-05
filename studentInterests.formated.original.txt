@@ -1,0 +1,13 @@
+Name	Faculty of interest
+Chan, Nicholas Peter (Nick)	Loes Olde Loohuis;Bogdan Pasaniuc;Daniel Tward
+Guruvayurappan, Karthik	Grace Xiao;Harold Pimentel;Paul Boutros;Sriram Sankararaman;Jason Ernst;Eleazar Eskin;Bogdan Pasaniuc
+Holness, Shevaughn Taina	Loes Olde Loohuis;Paivi Pajukanta;Brunilda Balliu
+Land, Max	Sriram Sankararaman;Harold Pimentel;Bogdan Pasaniuc;Xia Yang
+Lindsey, Timothy David-Ruport	Daniel Tward;Valerie Arboleda
+Mandla, Ravi	Bogdan Pasaniuc;Valerie Arboleda;Noah Zaitlen;Jason Ernst;Sriram Sankararaman;Paivi Pajukanta
+Perez, Julianna (Jules Perez)	Harold Pimentel;Eric Deeds;Nandita Garud
+Qin, Ashley Elaine	Jason Ernst
+Srinivasan, Anjali	Brent Fogel;Chongyuan Luo;Loes Olde Loohuis;Eleazar Eskin
+Steinberg, Philippa Lina	Bogdan Pasaniuc;Paul Boutros;Sriram Sankararaman
+Zhang, Haoxuan (Harry)	Matteo Pellegrini;Bogdan Pasaniuc;Grace Xiao;Jasmine Zhou;Harold Pimentel
+Zhu, Yu	Sriram Sankararaman;Harold Pimentel;Corey Arnold;Eleazar Eskin
